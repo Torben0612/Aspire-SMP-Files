@@ -1,0 +1,7 @@
+#Main Config File
+config-version: 1
+addon-enable:
+  aspire-items: false
+  aspire-commands: false
+  aspire-crafting: false
+  aspire-config: true

@@ -1,0 +1,8 @@
+name: Files
+version: '${project.version}'
+main: tk.theaspiresmp.files.Main
+api-version: 1.16
+prefix: [ AspireSMPFiles ]
+authors: [ Torben ]
+description: Store Information in config files
+website: www.theaspiresmp.tk
